@@ -12,6 +12,8 @@
     "test": "jest"
   },
   "devDependencies": {
+    "@babel/core": "^7.12",
+    "@babel/preset-env": "^7.12",
     "jest": "^26.6"
   },
   "private": true
