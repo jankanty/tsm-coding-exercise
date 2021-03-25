@@ -1,0 +1,18 @@
+{
+  "name": "trade-skill-master",
+  "version": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "files": [
+    "lib/"
+  ],
+  "main": "lib/index.js",
+  "repository": "JanKanty/trade-skill-master",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^26.6"
+  },
+  "private": true
+}
