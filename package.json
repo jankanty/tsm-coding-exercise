@@ -1,5 +1,5 @@
 {
-  "name": "trade-skill-master",
+  "name": "tsm-coding-exercise",
   "version": "1.0.0",
   "description": "",
   "license": "MIT",
@@ -7,7 +7,7 @@
     "lib/"
   ],
   "main": "lib/index.js",
-  "repository": "JanKanty/trade-skill-master",
+  "repository": "JanKanty/tsm-coding-exercise",
   "scripts": {
     "test": "jest"
   },

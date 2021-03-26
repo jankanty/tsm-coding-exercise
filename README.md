@@ -1,4 +1,4 @@
-# Trade Skill Master
+# TSM coding exercise
 
 [![Dependencies status][dependencies]][dependencies-url]
 
@@ -7,11 +7,11 @@
 ### getTotalGold
 
 ```js
-import {getTotalGold} from 'trade-skill-master';
+import {getTotalGold} from 'tsm-coding-exercise';
 
 getTotalGold([], 10);
 ```
 
-[dependencies]: https://img.shields.io/librariesio/github/JanKanty/trade-skill-master
+[dependencies]: https://img.shields.io/librariesio/github/JanKanty/tsm-coding-exercise
 
-[dependencies-url]: https://github.com/JanKanty/trade-skill-master/network/dependencies
+[dependencies-url]: https://github.com/JanKanty/tsm-coding-exercise/network/dependencies
